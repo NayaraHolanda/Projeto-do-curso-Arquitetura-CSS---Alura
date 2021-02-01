@@ -1,0 +1,28 @@
+:root {
+    --fundo-cabecalho: #f9f9f9;
+    --cor-link: #808080;
+    --cor-link-ativo: #333333;
+    --branco: #fdfdfd;
+    --cor-vinho: #8d0606;
+    --cinza-claro: #595959;
+    --cinza-escuro: #e5e5e5;
+    --vinho-escuro: #620404;
+    --outro-cinza-claro: #bfbfbf;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+ul, li {
+    padding: 0;
+}
